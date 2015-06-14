@@ -1,4 +1,4 @@
-function run_exp()
+function amazon_run_exp()
 global mod_name;
 mod_name = '';
 
